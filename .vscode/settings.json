@@ -3,5 +3,6 @@
   "CodeGPT.Autocomplete.suggestionDelay": 1040,
   "CodeGPT.Autocomplete.maxTokens": 2970,
   "CodeGPT.Autocomplete.enabled": true,
-  "CodeGPT.Autocomplete.provider": "CodeGPT Enterprise - Plus"
+  "CodeGPT.Autocomplete.provider": "CodeGPT Enterprise - Plus",
+  "cSpell.words": ["Josefin"]
 }
